@@ -10,4 +10,5 @@
 
 
 ### Materials 
-https://www.trelleborg.com/medical/-/media/tss-media-repository/healthcare-and-medical/pdfs/mat_chem_comp_gb_en.pdf 
+1. https://www.trelleborg.com/medical/-/media/tss-media-repository/healthcare-and-medical/pdfs/mat_chem_comp_gb_en.pdf 
+2. https://www.sspseals.com/category/materials
